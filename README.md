@@ -1,6 +1,6 @@
 # ScheduleProject
 # ERD
-![테이블](/Users/yourname/Desktop/테이블.png)
+![테이블](https://github.com/johnb9823/ScheduleProject/blob/main/%20%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF.png)
 
 # API 명세서
 
