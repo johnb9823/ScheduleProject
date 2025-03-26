@@ -1,4 +1,8 @@
 # ScheduleProject
+# ERD
+![테이블](<img width="347" alt="스크린샷 2025-03-26 오전 10 10 55" src="https://github.com/user-attachments/assets/0bddaf9f-2a20-4b97-9da8-f5cdd1212a3f" />
+)
+
 # API 명세서
 
 |          | Method | URL             | 설명                    | Request                                                                                                             | Response                                                                                                                          | 상태코드      |
